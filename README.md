@@ -206,7 +206,7 @@ If you encounter any issues or have questions:
 ## 📸 Screenshots
 
 ![Main Screen](https://github.com/PuspenduNayak/Weather_App/blob/master/app/src/main/java/com/example/weatherapp_kotlin/ScrrenShots/MainScreen.jpg)
-![Forecast Screen](https://github.com/PuspenduNayak/Weather_App/blob/master/app/src/main/java/com/example/weatherapp_kotlin/ScrrenShots/MainScreen.jpg)
+![Forecast Screen](https://github.com/PuspenduNayak/Weather_App/blob/master/app/src/main/java/com/example/weatherapp_kotlin/ScrrenShots/ForecastImage.jpg)
 
 ### Main Screen
 - Beautiful gradient background
