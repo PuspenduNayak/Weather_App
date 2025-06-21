@@ -205,8 +205,8 @@ If you encounter any issues or have questions:
 
 ## 📸 Screenshots
 
-[](https://github.com/PuspenduNayak/Weather_App/blob/master/Screenshot_2025-06-21-14-29-08-751_com.example.weatherapp_kotlin.jpg)
-[](https://github.com/PuspenduNayak/Weather_App/blob/master/Screenshot_2025-06-21-14-29-13-611_com.example.weatherapp_kotlin.jpg)
+![Main Screen](https://github.com/PuspenduNayak/Weather_App/blob/master/Screenshot_2025-06-21-14-29-08-751_com.example.weatherapp_kotlin.jpg)
+![Forecast Screen](https://github.com/PuspenduNayak/Weather_App/blob/master/Screenshot_2025-06-21-14-29-13-611_com.example.weatherapp_kotlin.jpg)
 
 ### Main Screen
 - Beautiful gradient background
