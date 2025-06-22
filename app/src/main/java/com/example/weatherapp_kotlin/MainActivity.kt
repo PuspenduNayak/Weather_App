@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var fusedLocationClient: FusedLocationProviderClient
     private lateinit var weatherApiService: WeatherApiService
 
-    private val apiKey = "cbc9015126156ed02d28ca43bda76e36" // Replace with your OpenWeatherMap API key
+    private val apiKey = "YOUR-API-KEY" // Replace with your OpenWeatherMap API key
 
     private lateinit var tvCityName: TextView
     private lateinit var tvTemperature: TextView
